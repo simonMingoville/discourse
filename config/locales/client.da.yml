@@ -1162,7 +1162,7 @@ da:
         login_required: "Do skal logge på for at se dette emne."
       server_error:
         title: "Emnet kunne ikke indlæses"
-        description: "Beklager, vi kunne ikke indlæse det emne, muligvis grundet et problem med netværksforbindelsen. Prøv venligst igen. Hvis problemet fortæstter, så skriv venligst til os."
+        description: "Beklager, vi kunne ikke indlæse det emne, muligvis grundet et problem med netværksforbindelsen. Prøv venligst igen. Hvis problemet fortsætter, så skriv venligst til os."
       not_found:
         title: "Emnet findes ikke"
         description: "Beklager, vi kunne ikke finde det emne i databasen. Måske er det blevet fjernet af moderator?"
